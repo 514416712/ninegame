@@ -44,7 +44,7 @@ $(function(){
                     <td>${c.id}</td>
                     <td>${c.name}</td>
                          
-                    <td><a href="admin_product_list?cid=${c.id}"><span class="glyphicon glyphicon-th-list"></span></a></td>                  
+                    <td><a href="admin_game_list?cid=${c.id}"><span class="glyphicon glyphicon-th-list"></span></a></td>                  
                     <td><a href="admin_category_edit?id=${c.id}"><span class="glyphicon glyphicon-edit"></span></a></td>
                     <td><a deleteLink="true" href="admin_category_delete?id=${c.id}"><span class="   glyphicon glyphicon-trash"></span></a></td>
      

@@ -1,0 +1,334 @@
+#gery{background-color: #EBEBEB;}
+#align1 img{vertical-align:middle;}  
+#rcorners9 {
+    border-radius: 120px ;
+    background:  url(../imgs2/icon_search_d70eefd.png) no-repeat 5% 60% #EBEBEB ; 
+    width: 440px;
+    height: 60px;
+} 
+
+#logo1{
+	padding: 12px;
+	padding-left: 30px;
+	width: 180px;
+}
+#logo2{
+	padding-top: 25px;
+	padding-left: 20px;
+}
+.item{
+	float: left;
+	width: 20%;
+	text-align: center;
+	padding-top: 20px;
+}
+.bcolor{
+	background-color: white;
+	font-family: Georgia;
+}
+.font1{
+	font-size: 25px;
+}
+
+.float2{
+	float: left;
+	margin:0 auto; display:block;
+}
+#padding1{
+	padding-left: 25px;
+	padding-right: 25px;
+}
+#font2{
+	color: black;
+	font-size: 30px;
+}
+.font3{
+	font-size: 20px;
+}
+.font3_{
+	font-size: 25px;
+}
+.float3{
+	margin-right: 30px;
+	float:right;
+	border:1px solid #F67B29;
+	border-radius:8px;
+}
+#font4{
+	color: #F67B29;
+	padding:12px  30px ;
+	font-size: 30px;
+}
+/*#right1{
+	left: 800px;
+}*/
+.imgsize{
+	width: 120px;
+	height: 120px;
+	margin-bottom: 10px;
+}
+.font5{
+	color: #000000;
+	font-size: 25px;
+	text-align: center;
+}
+.item2{
+	float: left;
+	width: 25%;
+	text-align: center;
+	padding-top: 20px;
+}
+.font6{
+	font-size: 20px;
+}
+.item3{
+	float: left;
+	width: 33.33%;
+	text-align: center;
+}
+.float4{
+	margin-right: 60px;
+	float:right;
+	border:1px solid #F67B29;
+	border-radius:8px;
+}
+.bcolor2{
+	background-color: #FA9C4B;
+}
+.half1{
+	width: 50%;
+	float: left;
+	position: relative;
+	padding: 1.25rem;
+	box-sizing: border-box;
+}
+#show{
+	display: block;
+	position: relative;
+}
+#show2{
+	height: 8rem;
+	display: block;
+}
+.dsc-wrap{
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+}
+.txt{
+	margin-left: 0.1rem;
+}
+
+#imgsize1{
+	width: 5.5rem;
+	border-radius: 1rem;
+	float: left;
+}
+
+.title{
+	padding-top: 0.5rem;
+	padding-left: 0.5rem;
+	font-size: 1.5rem;
+    color: #333;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+.dsc{
+	padding-top: 0.5rem;
+	padding-left: 0.5rem;
+	font-size: 1.2rem;
+    color: #999;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+.ba:before{
+	display: table;
+    content: "";
+    line-height: 0;
+}
+.ba:after{
+	 display: table;
+    content: "";
+    line-height: 0;
+}
+.float5{
+	width: 50%;
+	border:1px solid #F67B29;
+	border-radius:8px;
+}
+#status{
+	text-align: center;
+    width: 100%;
+    line-height: 4rem;
+    display: inline-block;
+    border: 1px solid #0bc8a6;
+    color: #0bc8a6;
+    border-radius: 0.5rem;
+    font-size: 2.5rem;
+}
+.test1{
+	background-color: #FFFFFF;
+	margin-bottom: 1rem;
+	padding-top: 1.5rem;
+	padding-left: 1.5rem;
+	overflow: hidden;
+}
+.test1 dt{
+	position: relative;
+	padding-bottom: 1.5rem;
+}
+
+.test1 dt a{
+	position: absolute;
+	right: 2rem;
+	bottom: 2rem;
+	font-size: 1.5rem;
+	line-height: 0.5rem;
+	color: #323232;
+}
+.test1 dt img{
+	padding-top: 0.5rem;
+	padding-left: 0.5rem;
+}
+h2{
+	font-weight: normal;
+}
+H5{
+	font-weight: normal;
+	color: #000000;
+	font-size: 2rem;
+	max-width: 10rem;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	white-space: nowrap;
+}
+.test1:before{
+	display: table;
+	content: "";
+	line-height: 0;
+}
+.category_{
+	float: left;
+	width: 20rem;
+	height: 8.75rem;
+	border: 1px solid #EBEBEB;
+	border-radius: 0.5rem;
+	margin-bottom: 1.5rem;
+	margin-right: 1rem;
+	box-sizing: border-box;
+	position: relative;
+
+}
+.category_ p{
+	font-size: 1.2rem;
+	max-width: 10rem;
+}
+
+.category_ .txt{
+	position: absolute;
+	left: 1rem;
+	top:1rem;
+}
+
+.category_  img{
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
+dd{
+	padding: 0;
+	margin: 0;
+}
+.games{
+	border-bottom: 1px solid #EBEBEB;
+	position: absolute;
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+}
+.download1{
+	margin: 0;
+	padding: 0;
+}
+.download1 a{
+	display: block;
+	text-decoration: none;
+	cursor: pointer;
+}
+.download1 p{
+	line-height: 4rem;
+	width: 80%;
+	font-size: 1.5rem;
+	color: #000000;
+	padding: 0.5rem 0 0.5rem 1.5rem;
+	float: left;
+	margin: 0;
+	
+}
+
+.float6 img{
+	margin-right: 0.5rem;
+	width: 4rem;
+	height: 4rem;
+	vertical-align: top;/*可以对齐右边的图片*/
+	border: 0;
+	max-width: 100%;
+}
+.download1 i{
+	color: #ff8800;
+	font-style: normal;
+	font-weight: normal;
+}
+.download2{
+	padding: 1rem 0 1rem 0;
+	width: 20%;	
+	height: 5rem;
+	border-left: 1px solid #EBEBEB;
+	float: right;
+	line-height: 5rem;
+	text-align: center;
+}
+.login{
+	background-color: #fff;
+	margin: 0;
+	padding:2rem;
+	text-align: center;
+}
+.category1{
+	margin: 0;
+	padding: 0;
+	border-bottom: 1px solid #EBEBEB;
+	padding-bottom: 1.5rem;
+}
+.login  a{
+	width: 6.5rem;
+	height: 5rem;
+	margin-left: 1.5rem;
+	margin-right: 1.5rem;
+	display:inline-block;/*又是在同一直线上*/
+}
+.login a p{
+	font-size: 1.5rem;
+	color: #222222;
+}
+
+.login1 .txt{
+	font-size: 1.8rem;
+	padding-top: 1.5rem;
+	padding-bottom: 1.5rem;
+}
+.login1 .btn{
+	margin: 0;
+	padding: 0;
+}
+.login1 .btn a{
+	width: 8rem;
+	height: 4rem;
+	line-height: 4rem;
+	margin-right: 0.1rem;
+	border:1px solid #F67B29;
+	color: #F67B29;
+	display: inline-block;
+	border-radius: 0.5rem;
+	font-size: 1.8rem;
+}

@@ -29,11 +29,11 @@ function checkNumber(id, name){
 		$("#"+id)[0].focus();
 		return false;
 	}
-	if(isNaN(value)){
+/* 	if(isNaN(value)){
 		alert(name+ "必须是数字");
 		$("#"+id)[0].focus();
 		return false;
-	}
+	} */
 	
 	return true;
 }

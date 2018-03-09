@@ -10,8 +10,21 @@ public class Game {
     private String size;
 
     private String introduce;
+    
+    /*非数据库字段*/
+    private Category category;
+    
+    
 
-    public Integer getId() {
+    public Category getCategory() {
+		return category;
+	}
+
+	public void setCategory(Category category) {
+		this.category = category;
+	}
+
+	public Integer getId() {
         return id;
     }
 
